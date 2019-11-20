@@ -3,14 +3,14 @@
 ![alt](./photo/01.PNG)  
 
 #### Part 1 Clean Data and Data Preprocessing (資料清理數據前處理)
-- Day 01 : Data Introduction and Assessment / *資料介紹與評估資料
-- Day 02 : Exploratory Data Analysis(EDA) / *讀取資料EDA: Data summary
-- Day 03 : Build Pandas DataFrame / *新建dataframe
-- Day 04 : Pandas Data Types / *欄位的資料類型介紹及處理
-- Day 05 : EDA Distribution / *資料分佈
-- Day 06 : Handle Outlier Data / *Outlier及處理
-- Day 07 : Normalize Continuous Data / *常用的數值取代：中位數與分位數連續數值標準化
-- Day 08 : DataFrame operation / *常用的 DataFrame 操作
+- Day 01 : Data Introduction and Assessment / *資料介紹與評估資料*
+- Day 02 : Exploratory Data Analysis(EDA) / *讀取資料EDA: Data summary*
+- Day 03 : Build Pandas DataFrame / *新建dataframe*
+- Day 04 : Pandas Data Types / *欄位的資料類型介紹及處理*
+- Day 05 : EDA Distribution / *資料分佈*
+- Day 06 : Handle Outlier Data / *Outlier及處理*
+- Day 07 : Normalize Continuous Data / *常用的數值取代：中位數與分位數連續數值標準化*
+- Day 08 : DataFrame operation / *常用的 DataFrame 操作*
 - Day 09 : EDA Correlation 1 / 程式實作: correlation/相關係數簡介
 - Day 10 : EDA Correlation 2 / EDA from Correlation
 - Day 11 : Kernal Density Estimation (KDE) / 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
