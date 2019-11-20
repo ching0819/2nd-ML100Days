@@ -11,3 +11,6 @@
 ## Part 6 Deep Learning Theory and Implement (深度學習理論與實作)
 ## Part 7 Deep Learning on Keras (初探深度學習使用 Keras)
 ## Part 8 Convolutional Neural Network (CNN) in Deep Learning (深度學習應用卷積神經網路)
+## Final Exam
+## Part 9 Bonus (進階補充)
+
