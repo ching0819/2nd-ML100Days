@@ -1,6 +1,5 @@
 # [ML100Days](https://ai100-2.cupoy.com/) 
-![alt](./photo/banner.PNG)
-![alt](./photo/01.PNG)  
+
 
 #### Part 1 Clean Data and Data Preprocessing (資料清理數據前處理)
 - Day 01 : Data Introduction and Assessment / *資料介紹與評估資料*
