@@ -2,8 +2,8 @@
 
 
 #### Part 1 Clean Data and Data Preprocessing (資料清理數據前處理)
-- Day 01 : Data Introduction and Assessment / *資料介紹與評估資料*
-- Day 02 : Exploratory Data Analysis(EDA) / *讀取資料EDA: Data summary*
+- [Day 01](https://github.com/ching0819/ML100Days/blob/master/homework/Day_001_HW.ipynb) : Data Introduction and Assessment / *資料介紹與評估資料*
+- [Day 02](https://github.com/ching0819/ML100Days/blob/master/homework/Day_002_HW.ipynb) : Exploratory Data Analysis(EDA) / *讀取資料EDA: Data summary*
 - Day 03 : Build Pandas DataFrame / *新建dataframe*
 - Day 04 : Pandas Data Types / *欄位的資料類型介紹及處理*
 - Day 05 : EDA Distribution / *資料分佈*
