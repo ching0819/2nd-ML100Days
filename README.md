@@ -4,20 +4,20 @@
 #### Part 1 Clean Data and Data Preprocessing (資料清理數據前處理)
 - [Day 01](https://github.com/ching0819/ML100Days/blob/master/homework/Day_001_HW.ipynb) : Data Introduction and Assessment / *資料介紹與評估資料*
 - [Day 02](https://github.com/ching0819/ML100Days/blob/master/homework/Day_002_HW.ipynb) : Exploratory Data Analysis(EDA) / *讀取資料EDA: Data summary*
-- Day 03 : Build Pandas DataFrame / *新建dataframe*
-- Day 04 : Pandas Data Types / *欄位的資料類型介紹及處理*
-- Day 05 : EDA Distribution / *資料分佈*
-- Day 06 : Handle Outlier Data / *Outlier及處理*
-- Day 07 : Normalize Continuous Data / *常用的數值取代：中位數與分位數連續數值標準化*
-- Day 08 : DataFrame operation / *常用的 DataFrame 操作*
-- Day 09 : EDA Correlation 1 / *程式實作: correlation/相關係數簡介*
-- Day 10 : EDA Correlation 2 / *EDA from Correlation*
-- Day 11 : Kernal Density Estimation (KDE) / *不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)*
-- Day 12 : Discretization Method / *把連續型變數離散化*
-- Day 13 : Implement Discretization Method / *程式實作:把連續型變數離散化*
-- Day 14 : Subplot using Matplotib / *繪製子圖*
-- Day 15 : Heatmap and Grid-plot / *繪製Heatmap & Grid-plot*
-- Day 16 : Logistic Regression / *模型初體驗 Logistic Regression*
+- [Day 03](https://github.com/ching0819/ML100Days/blob/master/homework/Day_003_HW.ipynb) : Build Pandas DataFrame / *新建dataframe*
+- [Day 04](https://github.com/ching0819/ML100Days/blob/master/homework/Day_004_HW.ipynb) : Pandas Data Types / *欄位的資料類型介紹及處理*
+- [Day 05](https://github.com/ching0819/ML100Days/blob/master/homework/Day_005_HW.ipynb) : EDA Distribution / *資料分佈*
+- [Day 06](https://github.com/ching0819/ML100Days/blob/master/homework/Day_006_HW.ipynb) : Handle Outlier Data / *Outlier及處理*
+- [Day 07](https://github.com/ching0819/ML100Days/blob/master/homework/Day_007_HW.ipynb) : Normalize Continuous Data / *常用的數值取代：中位數與分位數連續數值標準化*
+- [Day 08](https://github.com/ching0819/ML100Days/blob/master/homework/Day_008_HW.ipynb) : DataFrame operation / *常用的 DataFrame 操作*
+- [Day 09](https://github.com/ching0819/ML100Days/blob/master/homework/Day_009_HW.ipynb) : EDA Correlation 1 / *程式實作: correlation/相關係數簡介*
+- [Day 10](https://github.com/ching0819/ML100Days/blob/master/homework/Day_010_HW.ipynb) : EDA Correlation 2 / *EDA from Correlation*
+- [Day 11](https://github.com/ching0819/ML100Days/blob/master/homework/Day_011_HW.ipynb) : Kernal Density Estimation (KDE) / *不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)*
+- [Day 12](https://github.com/ching0819/ML100Days/blob/master/homework/Day_012_HW.ipynb) : Discretization Method / *把連續型變數離散化*
+- [Day 13](https://github.com/ching0819/ML100Days/blob/master/homework/Day_013_HW.ipynb) : Implement Discretization Method / *程式實作:把連續型變數離散化*
+- [Day 14](https://github.com/ching0819/ML100Days/blob/master/homework/Day_014_HW.ipynb) : Subplot using Matplotib / *繪製子圖*
+- [Day 15](https://github.com/ching0819/ML100Days/blob/master/homework/Day_015_HW.ipynb) : Heatmap and Grid-plot / *繪製Heatmap & Grid-plot*
+- [Day 16](https://github.com/ching0819/ML100Days/blob/master/homework/Day_016_HW.ipynb) : Logistic Regression / *模型初體驗 Logistic Regression*
 
 #### Part 2 Feature Engineering (資料科學特徵工程技術)
 - Day 17 : Introduction of Feature Engineering / *特徵工程簡介*
